@@ -25,7 +25,7 @@ Pod::Spec.new do |spec|
   #   * Write the description between the DESC delimiters below.
   #   * Finally, don't worry about the indent, CocoaPods strips it!
   spec.description  = <<-DESC
-      full build libsodium
+      full build libsodium, support more features
                         DESC
 
   spec.homepage     = "https://github.com/AddIcechan/full-sodium"
