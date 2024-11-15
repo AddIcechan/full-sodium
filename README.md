@@ -1,5 +1,7 @@
 # full-sodium
 full build lib sodium
+1.0.21 -> full build jedisct1/libsodium 1.0.20
+1.0.23 -> full build jedisct1/libsodium 1.0.17
 
 ## how to use?
 ### CocoaPods
