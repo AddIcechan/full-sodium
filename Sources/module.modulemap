@@ -1,0 +1,6 @@
+framework module full_sodium {
+    umbrella header "full-sodium.h" // 主入口头文件
+    
+    export *  // 导出所有符号
+    module * { export * } // 默认导出子模块中的符号
+}
